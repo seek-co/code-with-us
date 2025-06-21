@@ -15,10 +15,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href=https://github.com/piyushyadav0191/Code-with-us-Editor/">
-    <img src="https://user-images.githubusercontent.com/84402719/200099751-6f0d7c68-7028-401b-b196-76ef22e7453e.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">CODE WITH US</h3>
 
   <p align="center">
@@ -128,16 +124,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTACT -->
-## Contact
-
- [Portfolio Site](https://piyushyadav.tk) - piyushyadav0191@gmail.com
-
-Project Link: [https://github.com/piyushyadav0191/Code-with-us-Editor/](https://github.com/piyushyadav0191/Code-with-us-Editor/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
